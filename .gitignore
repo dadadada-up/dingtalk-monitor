@@ -16,3 +16,7 @@ package-lock.json
 
 # 日志
 *.log
+node_modules/
+*.db
+.env
+.DS_Store
