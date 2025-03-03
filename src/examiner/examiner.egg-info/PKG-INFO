@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: examiner
+Version: 0.0.2
+Summary: 操作系统通知中心监控（不论微信、钉钉、QQ，只要开启消息通知），可编写对应处理脚本
+Home-page: https://github.com/howie6879/examiner
+Author: Howie Hu
+Author-email: xiaozizayang@gmail.com
+Requires-Dist: biplist
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

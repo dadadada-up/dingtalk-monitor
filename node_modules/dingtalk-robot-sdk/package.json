@@ -1,0 +1,28 @@
+{
+  "name": "dingtalk-robot-sdk",
+  "version": "1.1.0",
+  "description": "dingtalk robot sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ineo6/dingtalk-robot-sdk.git"
+  },
+  "homepage": "https://github.com/ineo6/dingtalk-robot-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/ineo6/dingtalk-robot-sdk/issues"
+  },
+  "author": "ineo6",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "debug": "^4.1.1"
+  },
+  "keywords": [
+    "dingtalk",
+    "robot",
+    "sdk"
+  ]
+}
